@@ -1,4 +1,4 @@
-# Decodificación de código Morse escrito en VHDL para una FPGA
+<b> Decodificación de código Morse escrito en VHDL para una FPGA </b>
 
 La FPGA saca una señal Morse analógica, que es convertida a una señal digital a través de un
 conversor A/D electrónico construido aparte. Esta señal se decodifica gracias a este programa.
